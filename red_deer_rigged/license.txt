@@ -1,0 +1,8 @@
+Model Information:
+* title:	Red Deer Rigged
+* source:	https://sketchfab.com/3d-models/red-deer-rigged-65bb0dee1f364d37a27c4cddcb2f4812
+* author:	monstermod (https://sketchfab.com/monstermod)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
